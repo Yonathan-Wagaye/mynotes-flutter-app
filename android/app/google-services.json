@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196595985297",
+    "project_id": "mynotes-learning-flutter-2023",
+    "storage_bucket": "mynotes-learning-flutter-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196595985297:android:a8d9206c57f14eca950830",
+        "android_client_info": {
+          "package_name": "com.zoskales.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196595985297-4csg2t8n3tkakd47v40igpe5sfo0p4nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApguZpOtVTRE2jfjFfdlTR-2BX2R5PE-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196595985297-4csg2t8n3tkakd47v40igpe5sfo0p4nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
